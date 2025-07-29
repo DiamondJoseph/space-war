@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: 4.1.0
+_src_path: https://github.com/DiamondLightSource/python-copier-template.git
+author_email: ''
+author_name: Joseph Ware
+description: ''
+distribution_name: space-war
+docker: false
+docs_type: README
+git_platform: github.com
+github_org: DiamondJoseph
+package_name: space_war
+pypi: false
+repo_name: space-war
+strict_typing: true
+type_checker: pyright
